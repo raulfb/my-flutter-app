@@ -1,16 +1,10 @@
 # myapp
 
-A new Flutter project.
+Proyecto para probar el uso de Flutter.
 
-## Getting Started
+## Descripción
 
-This project is a starting point for a Flutter application.
+El proyecto se creo en idx:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Android view [Android view](https://8686-idx-flutter-app-1716992004971.cluster-blu4edcrfnajktuztkjzgyxzek.cloudworkstations.dev/emulator.html?embedded=0)
+- Web view [web view](https://9000-idx-flutter-app-1716992004971.cluster-blu4edcrfnajktuztkjzgyxzek.cloudworkstations.dev/?monospaceUid=194496&embedded=0)
