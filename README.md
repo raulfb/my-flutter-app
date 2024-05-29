@@ -1,4 +1,4 @@
-# myapp
+# Generador palabras
 
 Proyecto para probar el uso de Flutter.
 
